@@ -3,6 +3,8 @@
 
 source "https://rubygems.org"
 
+# Comment
+
 gemspec
 
 if File.exist?(File.expand_path("../../vagrant-spec", __FILE__))
